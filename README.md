@@ -1,2 +1,3 @@
-# TIL
-Today I learned
+# TIL(Today I Learned)
+
+日報です。
